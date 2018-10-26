@@ -3,7 +3,7 @@
   "info": {
     "label": "Site Reliability Engineer",
     "image": "",
-    "brief": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as a champion of automation and workflows manifested as code. In people, this manifests as listening with kindness, and gentle encouragement towards the individual accomplishment."
+    "brief": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as being a champion of automation and manifesting workflows as code. In people, this manifests as listening with kindness, and gentle encouragement towards individual accomplishment."
   },
   "contact": {
     "email": "jpark@jim80.net",
@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-10-26T06:44:52.456Z"
+    "modified": "2018-10-26T06:51:18.302Z"
   },
   "location": {
     "city": "San Francisco",
@@ -26,8 +26,8 @@
         "position": "Member of the Technical Staff",
         "employer": "Credit Suisse Labs",
         "summary": "Credit Suisse Labs is a data research lab dedicated to the marriage of high tech with finance. Jim is responsible for operations engineering and security.",
-        "current": true,
         "start": "2017-09-12",
+        "end": "Present",
         "url": "https://credit-suisse.com",
         "keywords": [],
         "highlights": [
@@ -136,6 +136,7 @@
         "position": "Founder",
         "organization": "Social Mobility Pathways",
         "start": "2018-11-14",
+        "end": "Present",
         "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are connected with caring and compassionate guidance."
       },
       {
@@ -143,6 +144,7 @@
         "position": "Area Director",
         "organization": "Toastmasters International",
         "start": "2018-06-01",
+        "end": "Present",
         "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
       }
     ]
@@ -180,6 +182,10 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Conversational"
     }
   ]
 }
