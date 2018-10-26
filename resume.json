@@ -40,7 +40,7 @@
       "website": "https://pivotal.io",
       "startDate": "2014-12-01",
       "endDate": "2017-09-12",
-      "summary": "Pivotal Software is transforming the way the world builds and operates software. The Cloud Operations team is responsible for the care and feeding of Pivotal Web Services, a reference implementation of open source Cloud Foundry. Jim was responsible for Cloud Operations in roles as Product Manager and Team Anchor."
+      "summary": "Pivotal Software is transforming the way the world builds and operates software. The Cloud Operations team is responsible for the care and feeding of Pivotal Web Services, a reference implementation of open source Cloud Foundry. Jim was responsible for Cloud Operations in roles as Product Manager and Team Anchor.",
       "highlights": [
         "Launched Rackspace Managed Pivotal Cloud Foundry",
         "Created fully-automated (from product release to production) deployment patterns for PCF customers",
@@ -59,23 +59,23 @@
       ]
     },
     {
-      "company": "Adknowledge, Inc."
+      "company": "Adknowledge, Inc.",
       "position": "Senior Linux Administrator",
       "website": "http://adknowledge.com/",
       "startDate": "2012-08-01",
       "endDate": "2014-03-01",
-      "summary": "Adknowledge is a digital advertising technology company that specializes in video, social, apps or mobile, email and content recommendation. Jim was responsible for Linux Administration"
+      "summary": "Adknowledge is a digital advertising technology company that specializes in video, social, apps or mobile, email and content recommendation. Jim was responsible for Linux Administration",
       "highlights": [
         "Implemented puppet-based configuration management for SuSE Linux servers"
       ]
     },
     {
-      "company": "IC Solutions"
+      "company": "IC Solutions",
       "position": "Senior Systems Administrator",
       "website": "https://www.icsolutions.com/",
       "startDate": "2011-07-01",
       "endDate": "2012-08-01",
-      "summary": "IC Solutions is a teleconference company that serves correctional facilities. Jim was responsible for the administration of Linux systems and networking."
+      "summary": "IC Solutions is a teleconference company that serves correctional facilities. Jim was responsible for the administration of Linux systems and networking.",
       "highlights": [
         "Implemented puppet-based configuration management for RHEL Linux servers",
         "Configuration of JunOS/ScreenOS network devices"
@@ -84,10 +84,10 @@
     {
       "company": "Peer 1 Hosting",
       "position": "IT Administrator",
-      "website": "https://www.cogecopeer1.com/"
+      "website": "https://www.cogecopeer1.com/",
       "startDate": "2008-08-01",
       "endDate": "2011-07-01",
-      "summary": "Peer 1 is a managed hosting company. Jim was responsible for IT operations, server administration support, and data center operations."
+      "summary": "Peer 1 is a managed hosting company. Jim was responsible for IT operations, server administration support, and data center operations.",
       "highlights": [
         "Implemented LANDesk ITSM suite",
         "Daily breakfix of Linux and Windows servers.",
@@ -95,12 +95,12 @@
       ]
     },
     {
-      "company": "Mt San Antonio College"
+      "company": "Mt San Antonio College",
       "position": "Student Assitant V",
       "website": "https://www.mtsac.edu/",
       "startDate": "2007-12-01",
       "endDate": "2008-08-01",
-      "summary": "Mt SAC is a community college. Jim was responsible for the setup and configuration of student workstations."
+      "summary": "Mt SAC is a community college. Jim was responsible for the setup and configuration of student workstations.",
       "highlights": [
         "Created Symantec Ghost services",
         "Administered Windows Active Directory",
@@ -110,15 +110,15 @@
     {
       "company": "United States Marine Corps",
       "position": "Sergeant - 2847 Ground Electronics Telecommunications and Information Technology Systems Maintainer",
-      "website": "https://usmc.mil"
+      "website": "https://usmc.mil",
       "startDate": "2001-06-01",
       "endDate": "2006-12-01",
-      "summary": "Ground Electronics Telecommunications and Information Technology Systems Maintainers are trained to install, diagnose, modify, and perform field level repairs on repairs on Marine Corps Common Hardware Suite (MCHS) systems, intelligence processing systems, information technology systems, telephone switching systems, and related equipment. Typical duties include the repair and alignment to ground common telephone and switching equipment, intelligence processing equipment, data distribution systems, and information technology end user devices (e.g. computers, printers, or plotters), and associated peripheral devices. These Marines also requisition parts, complete service requests, and assist in the installation of Information Technology Systems."
+      "summary": "Ground Electronics Telecommunications and Information Technology Systems Maintainers are trained to install, diagnose, modify, and perform field level repairs on repairs on Marine Corps Common Hardware Suite (MCHS) systems, intelligence processing systems, information technology systems, telephone switching systems, and related equipment. Typical duties include the repair and alignment to ground common telephone and switching equipment, intelligence processing equipment, data distribution systems, and information technology end user devices (e.g. computers, printers, or plotters), and associated peripheral devices. These Marines also requisition parts, complete service requests, and assist in the installation of Information Technology Systems.",
       "highlights": [
-        "Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible."
+        "Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible.",
         "Riding a CH-47 is fun."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -159,7 +159,6 @@
         "Generosity",
         "Not being serious"
       ]
-    },
-
+    }
   ]
 }
