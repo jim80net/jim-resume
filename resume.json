@@ -5,7 +5,7 @@
     "picture": "",
     "email": "jpark@jim80.net",
     "phone": "+1.210.649.5546",
-    "summary": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as a champion of automation and workflows manifested as code. In people, this manifests as listening with kindness, and gentle encouragement towards the individual accomplishment.",
+    "summary": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as being a champion of automation and manifesting workflows as code. In people, this manifests as listening with kindness, and gentle encouragement towards individual accomplishment.",
     "location": {
       "address": "529 Natoma St",
       "postalCode": "94103",
@@ -27,7 +27,7 @@
       "position": "Member of the Technical Staff",
       "website": "https://credit-suisse.com",
       "startDate": "2017-09-12",
-      "commentendDate": "2014-12-01",
+      "endDate": "Present",
       "summary": "Credit Suisse Labs is a data research lab dedicated to the marriage of high tech with finance. Jim is responsible for operations engineering and security.",
       "highlights": [
         "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
@@ -125,12 +125,14 @@
       "organization": "Social Mobility Pathways",
       "position": "Founder",
       "startDate": "2018-11-14",
+      "endDate": "Present",
       "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are connected with caring and compassionate guidance."
     },
     {
       "organization": "Toastmasters International",
       "position": "Area Director",
       "startDate": "2018-06-01",
+      "endDate": "Present",
       "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
     }
   ],
@@ -138,6 +140,10 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Conversational"
     }
   ],
   "interests": [
