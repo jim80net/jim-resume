@@ -1,0 +1,185 @@
+{
+  "name": "Jim Park",
+  "info": {
+    "label": "Site Reliability Engineer",
+    "image": "",
+    "brief": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as a champion of automation and workflows manifested as code. In people, this manifests as listening with kindness, and gentle encouragement towards the individual accomplishment."
+  },
+  "contact": {
+    "email": "jpark@jim80.net",
+    "phone": "+1.210.649.5546"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2018-10-26T06:44:52.456Z"
+  },
+  "location": {
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "code": "94103",
+    "address": "529 Natoma St"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Member of the Technical Staff",
+        "employer": "Credit Suisse Labs",
+        "summary": "Credit Suisse Labs is a data research lab dedicated to the marriage of high tech with finance. Jim is responsible for operations engineering and security.",
+        "current": true,
+        "start": "2017-09-12",
+        "url": "https://credit-suisse.com",
+        "keywords": [],
+        "highlights": [
+          "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
+          "Implemented BeyondCorp practices to secure Labs operating infrastructure."
+        ]
+      },
+      {
+        "position": "Cloud Operations Product Manager / Team Anchor",
+        "employer": "Pivotal Software",
+        "summary": "Pivotal Software is transforming the way the world builds and operates software. The Cloud Operations team is responsible for the care and feeding of Pivotal Web Services, a reference implementation of open source Cloud Foundry. Jim was responsible for Cloud Operations in roles as Product Manager and Team Anchor.",
+        "start": "2014-12-01",
+        "end": "2017-09-12",
+        "url": "https://pivotal.io",
+        "keywords": [],
+        "highlights": [
+          "Launched Rackspace Managed Pivotal Cloud Foundry",
+          "Created fully-automated (from product release to production) deployment patterns for PCF customers",
+          "Created reference monitoring guidelines and templates for Cloud Foundry"
+        ]
+      },
+      {
+        "position": "Systems Engineer",
+        "employer": "Wildbit, LLC",
+        "summary": "Wildbit is a small software company, focusing on three popular and profitable web products: Beanstalk, Postmark, and Conveyor. Jim was responsible for Infrastructure Operations.",
+        "start": "2014-03-01",
+        "end": "2014-10-01",
+        "url": "https://wildbit.com",
+        "keywords": [],
+        "highlights": [
+          "Implemented chef-based configuration management for linux and OmniOS servers"
+        ]
+      },
+      {
+        "position": "Senior Linux Administrator",
+        "employer": "Adknowledge, Inc.",
+        "summary": "Adknowledge is a digital advertising technology company that specializes in video, social, apps or mobile, email and content recommendation. Jim was responsible for Linux Administration",
+        "start": "2012-08-01",
+        "end": "2014-03-01",
+        "url": "http://adknowledge.com/",
+        "keywords": [],
+        "highlights": [
+          "Implemented puppet-based configuration management for SuSE Linux servers"
+        ]
+      },
+      {
+        "position": "Senior Systems Administrator",
+        "employer": "IC Solutions",
+        "summary": "IC Solutions is a teleconference company that serves correctional facilities. Jim was responsible for the administration of Linux systems and networking.",
+        "start": "2011-07-01",
+        "end": "2012-08-01",
+        "url": "https://www.icsolutions.com/",
+        "keywords": [],
+        "highlights": [
+          "Implemented puppet-based configuration management for RHEL Linux servers",
+          "Configuration of JunOS/ScreenOS network devices"
+        ]
+      },
+      {
+        "position": "IT Administrator",
+        "employer": "Peer 1 Hosting",
+        "summary": "Peer 1 is a managed hosting company. Jim was responsible for IT operations, server administration support, and data center operations.",
+        "start": "2008-08-01",
+        "end": "2011-07-01",
+        "url": "https://www.cogecopeer1.com/",
+        "keywords": [],
+        "highlights": [
+          "Implemented LANDesk ITSM suite",
+          "Daily breakfix of Linux and Windows servers.",
+          "PXE service administration"
+        ]
+      },
+      {
+        "position": "Student Assitant V",
+        "employer": "Mt San Antonio College",
+        "summary": "Mt SAC is a community college. Jim was responsible for the setup and configuration of student workstations.",
+        "start": "2007-12-01",
+        "end": "2008-08-01",
+        "url": "https://www.mtsac.edu/",
+        "keywords": [],
+        "highlights": [
+          "Created Symantec Ghost services",
+          "Administered Windows Active Directory",
+          "Created MSI packages"
+        ]
+      },
+      {
+        "position": "Sergeant - 2847 Ground Electronics Telecommunications and Information Technology Systems Maintainer",
+        "employer": "United States Marine Corps",
+        "summary": "Ground Electronics Telecommunications and Information Technology Systems Maintainers are trained to install, diagnose, modify, and perform field level repairs on repairs on Marine Corps Common Hardware Suite (MCHS) systems, intelligence processing systems, information technology systems, telephone switching systems, and related equipment. Typical duties include the repair and alignment to ground common telephone and switching equipment, intelligence processing equipment, data distribution systems, and information technology end user devices (e.g. computers, printers, or plotters), and associated peripheral devices. These Marines also requisition parts, complete service requests, and assist in the installation of Information Technology Systems.",
+        "start": "2001-06-01",
+        "end": "2006-12-01",
+        "url": "https://usmc.mil",
+        "keywords": [],
+        "highlights": [
+          "Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible.",
+          "Riding a CH-47 is fun."
+        ]
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Founder",
+        "organization": "Social Mobility Pathways",
+        "start": "2018-11-14",
+        "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are connected with caring and compassionate guidance."
+      },
+      {
+        "type": "volunteer",
+        "position": "Area Director",
+        "organization": "Toastmasters International",
+        "start": "2018-06-01",
+        "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "",
+      "user": "jim80net"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Engines",
+      "keywords": [
+        "Motorcycles",
+        "Sports Cars",
+        "Pickup Trucks",
+        "Container Orchestration Engines"
+      ]
+    },
+    {
+      "name": "Self Development",
+      "keywords": [
+        "Communication skills",
+        "Neuroscience",
+        "Philosophy",
+        "Generosity",
+        "Not being serious"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
