@@ -1,6 +1,6 @@
 basics:
   name: 'Jim Park'
-  label: 'Site Reliability Engineer'
+  label: 'Operations Engineer'
   picture: ""
   email: jpark@jim80.net
   phone: +1.210.649.5546
@@ -23,7 +23,7 @@ work:
     website: 'https://credit-suisse.com'
     startDate: 'September 2017'
     endDate: Present
-    summary: 'Credit Suisse Labs is a data research lab dedicated to the marriage of high tech with finance. Jim is responsible for operations engineering and security.'
+    summary: 'Credit Suisse Labs leverages new tools and new ways of working to build new businesses or refresh old ones in a way that benefits both Credit Suisse as well as society as a whole. I have the pleasure of working with world-class  scientists and engineers leveraging bleeding edge technology. '
     highlights:
       - 'Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel'
       - 'Implemented BeyondCorp practices to secure Labs operating infrastructure.'
@@ -33,7 +33,7 @@ work:
     website: 'https://pivotal.io'
     startDate: 'December 2014'
     endDate: 'September 2017'
-    summary: 'Pivotal Software is transforming the way the world builds and operates software. The Cloud Operations team is responsible for the care and feeding of Pivotal Web Services, a reference implementation of open source Cloud Foundry. Jim was responsible for Cloud Operations in roles as Product Manager and Team Anchor.'
+    summary: 'I was responsible for Cloud Operations in roles as Product Manager and Team Anchor. I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching. '
     highlights:
       - 'Launched Rackspace Managed Pivotal Cloud Foundry'
       - 'Created fully-automated (from product release to production) deployment patterns for PCF customers'
@@ -44,16 +44,26 @@ work:
     website: 'https://wildbit.com'
     startDate: 'March 2014'
     endDate: 'October 2014'
-    summary: 'Wildbit is a small software company, focusing on three popular and profitable web products: Beanstalk, Postmark, and Conveyor. Jim was responsible for Infrastructure Operations.'
+    summary: 'Working with Wildbit was an interesting experience, and the company culture is great. But this was where I learned that working from home was too isolating for me. I learned that I enjoy bringing other people along on journeys with me, and sought that out in my next career move.'
     highlights:
       - 'Implemented chef-based configuration management for linux and OmniOS servers'
+  -
+    company: SportsPhotos.com
+    position: CTO
+    website: 'http://sportsphotos.com/'
+    startDate: 'Jun 2013'
+    endDate: 'March 2014'
+    summary: 'For a short while, I supported my friend''s company, sportsphotos.com, during the evenings. We had both moved to Kansas City because Google Fiber had come to town. We spent some late weekend nights building ZFS file servers and deployment pipelines for sportsphotos.com.'
+    highlights:
+      - 'ZFS filers are fun!'
+      - 'SmartOS containers and KVM containers were a fresh take'
   -
     company: 'Adknowledge, Inc.'
     position: 'Senior Linux Administrator'
     website: 'http://adknowledge.com/'
     startDate: 'August 2012'
     endDate: 'March 2014'
-    summary: 'Adknowledge is a digital advertising technology company that specializes in video, social, apps or mobile, email and content recommendation. Jim was responsible for Linux Administration'
+    summary: 'The best part, and the hardest part, about working with Adknowledge was the performance requirements of the product required hardware assets. This was where I most developed the skill to design tools that were resilient to I/O failure and could manage thousands of nodes.'
     highlights:
       - 'Implemented puppet-based configuration management for SuSE Linux servers'
   -
@@ -62,7 +72,7 @@ work:
     website: 'https://www.icsolutions.com/'
     startDate: 'July 2011'
     endDate: 'August 2012'
-    summary: 'IC Solutions is a teleconference company that serves correctional facilities. Jim was responsible for the administration of Linux systems and networking.'
+    summary: 'ICSolutions was where I developed my passion for configuration management tooling. Given a broad array of customer sites, I wrote tooling to configure linux servers and Juniper networking equipment. '
     highlights:
       - 'Implemented puppet-based configuration management for RHEL Linux servers'
       - 'Configuration of JunOS/ScreenOS network devices'
@@ -72,18 +82,18 @@ work:
     website: 'https://www.cogecopeer1.com/'
     startDate: 'August 2008'
     endDate: 'July 2011'
-    summary: 'Peer 1 is a managed hosting company. Jim was responsible for IT operations, server administration support, and data center operations.'
+    summary: 'At PEER 1, I encountered a daily barrage of break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. Working in hosting pushed me enabled me to become intimately familiar with networking, linux systems, as well as the occasional Windows server. I quickly learned of the value of proper HA configurations and Business Continuity Planning. My ability to remain calm under pressure and customer service focus was a boon both for myself and the customers I interacted with. '
     highlights:
       - 'Implemented LANDesk ITSM suite'
       - 'Daily breakfix of Linux and Windows servers.'
       - 'PXE service administration'
   -
     company: 'Mt San Antonio College'
-    position: 'Student Assitant V'
+    position: 'Student Assistant V'
     website: 'https://www.mtsac.edu/'
     startDate: 'December 2007'
     endDate: 'August 2008'
-    summary: 'Mt SAC is a community college. Jim was responsible for the setup and configuration of student workstations.'
+    summary: 'While attending computer networking courses, I was a student assistant and configured lab workstations. This was where I learned about virtual machines on my shiny XPS laptop. I setup the laptop with PXE and Symantec Ghost so that I could avoid walking around with OS disks.  '
     highlights:
       - 'Created Symantec Ghost services'
       - 'Administered Windows Active Directory'
@@ -94,7 +104,7 @@ work:
     website: 'https://usmc.mil'
     startDate: 'June 2001'
     endDate: 'December 2007'
-    summary: 'Ground Electronics Telecommunications and Information Technology Systems Maintainers are trained to install, diagnose, modify, and perform field level repairs on repairs on Marine Corps Common Hardware Suite (MCHS) systems, intelligence processing systems, information technology systems, telephone switching systems, and related equipment. Typical duties include the repair and alignment to ground common telephone and switching equipment, intelligence processing equipment, data distribution systems, and information technology end user devices (e.g. computers, printers, or plotters), and associated peripheral devices. These Marines also requisition parts, complete service requests, and assist in the installation of Information Technology Systems.'
+    summary: "My primary role in the Marine Corps was as a Ground Electronics Telecommunications and Information Technology Systems Maintainer. This meant that for my day job, I repaired broken telecom and IT equipment. The focus was primarily on hardware, and included intermediate level repair of workstations, servers, printers, artillery fire controllers, fiber optic cables, multi-pin copper connectors, telephones, and switchboards.\nOne highlight in this domain came from my taking the initiative to optimize the bench stock of repair parts during support operations in OIF. Given exceptionally long lead times for repair parts delivery, I used MS Access (my first awkward foray into databases) to analyze and pre-order repair parts to enable rapid turnaround of repairs.\nIn a completely different domain, I was also a military policeman aboard Camp Pendleton, and a sub-standard Korean translator that served in two Foal Eagle exercises. "
     highlights:
       - 'Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible.'
       - 'Riding a CH-47 is fun.'
