@@ -125,7 +125,7 @@
       "website": "https://usmc.mil",
       "startDate": "June 2001",
       "endDate": "December 2007",
-      "summary": "My primary role in the Marine Corps was as a Ground Electronics Telecommunications and Information Technology Systems Maintainer. This meant that for my day job, I repaired broken telecom and IT equipment. The focus was primarily on hardware, and included intermediate level repair of workstations, servers, printers, artillery fire controllers, fiber optic cables, multi-pin copper connectors, telephones, and switchboards.\nOne highlight in this domain came from my taking the initiative to optimize the bench stock of repair parts during support operations in OIF. Given exceptionally long lead times for repair parts delivery, I used MS Access (my first awkward foray into databases) to analyze and pre-order repair parts to enable rapid turnaround of repairs.\nIn a completely different domain, I was also a military policeman aboard Camp Pendleton, and a sub-standard Korean translator that served in two Foal Eagle exercises. ",
+      "summary": "My primary role in the Marine Corps was as a Ground Electronics Telecommunications and Information Technology Systems Maintainer. This meant that for my day job, I repaired broken telecom and IT equipment. The focus was primarily on hardware, and included intermediate level repair of workstations, servers, printers, artillery fire controllers, fiber optic cables, multi-pin copper connectors, telephones, and switchboards.\nOne highlight in this domain came from my taking the initiative to optimize the bench stock of repair parts during support operations in OIF. Given exceptionally long lead times for repair parts delivery, I used MS Access (my first awkward foray into databases) to analyze and pre-order repair parts to enable rapid turnaround of repairs.\nIn a completely different domain, I was also a military policeman aboard Camp Pendleton, and a sub-standard Korean translator that served in two Foal Eagle exercises. =)",
       "highlights": [
         "Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible.",
         "Riding a CH-47 is fun."
@@ -165,7 +165,8 @@
         "Motorcycles",
         "Sports Cars",
         "Pickup Trucks",
-        "Container Orchestration Engines"
+        "Container Orchestration Engines",
+        "I like trains."
       ]
     },
     {
@@ -175,7 +176,7 @@
         "Neuroscience",
         "Philosophy",
         "Generosity",
-        "Not being serious"
+        "Not being overly serious"
       ]
     }
   ]
