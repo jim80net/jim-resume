@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-10-27T16:50:38.232Z"
+    "modified": "2018-12-20T02:52:39.047Z"
   },
   "location": {
     "city": "San Francisco",
@@ -32,7 +32,7 @@
         "keywords": [],
         "highlights": [
           "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
-          "Implemented BeyondCorp practices to secure Labs operating infrastructure."
+          "Created using BeyondCorp practices to secure Labs operating infrastructure."
         ]
       },
       {
@@ -44,9 +44,9 @@
         "url": "https://pivotal.io",
         "keywords": [],
         "highlights": [
-          "Launched Rackspace Managed Pivotal Cloud Foundry",
-          "Created fully-automated (from product release to production) deployment patterns for PCF customers",
-          "Created reference monitoring guidelines and templates for Cloud Foundry"
+          "Technical liason for Rackspace Managed Pivotal Cloud Foundry",
+          "Created fully-automated (from product release to production) deployment pattern, reducing operator toil",
+          "Took ownership of reference monitoring guidelines and templates for Cloud Foundry, improving visibility and MTTR"
         ]
       },
       {
@@ -62,19 +62,6 @@
         ]
       },
       {
-        "position": "CTO",
-        "employer": "SportsPhotos.com",
-        "summary": "For a short while, I supported my friend's company, sportsphotos.com, during the evenings. We had both moved to Kansas City because Google Fiber had come to town. We spent some late weekend nights building ZFS file servers and deployment pipelines for sportsphotos.com.",
-        "start": "Jun 2013",
-        "end": "March 2014",
-        "url": "http://sportsphotos.com/",
-        "keywords": [],
-        "highlights": [
-          "ZFS filers are fun!",
-          "SmartOS containers and KVM containers were a fresh take"
-        ]
-      },
-      {
         "position": "Senior Linux Administrator",
         "employer": "Adknowledge, Inc.",
         "summary": "The best part, and the hardest part, about working with Adknowledge was the performance requirements of the product required hardware assets. This was where I most developed the skill to design tools that were resilient to I/O failure and could manage thousands of nodes.",
@@ -83,7 +70,8 @@
         "url": "http://adknowledge.com/",
         "keywords": [],
         "highlights": [
-          "Implemented puppet-based configuration management for SuSE Linux servers"
+          "Created using puppet-based configuration management to reduce configuration errors and change deployment time",
+          "Created custom infrastructure SSH tool (like a hacky ansible) to manage configuration drift"
         ]
       },
       {
@@ -95,22 +83,20 @@
         "url": "https://www.icsolutions.com/",
         "keywords": [],
         "highlights": [
-          "Implemented puppet-based configuration management for RHEL Linux servers",
+          "Created using puppet-based configuration management to reduce configuration errors and change deployment time",
           "Configuration of JunOS/ScreenOS network devices"
         ]
       },
       {
         "position": "IT Administrator",
         "employer": "Peer 1 Hosting",
-        "summary": "At PEER 1, I encountered a daily barrage of break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. Working in hosting pushed me enabled me to become intimately familiar with networking, linux systems, as well as the occasional Windows server. I quickly learned of the value of proper HA configurations and Business Continuity Planning. My ability to remain calm under pressure and customer service focus was a boon both for myself and the customers I interacted with. ",
+        "summary": "Given the business-critical nature of the servers we hosted, I encountered a daily barrage of priority break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. Working in hosting pushed me enabled me to become intimately familiar with networking, DNS, web hosting, and the many ways systems can break.",
         "start": "August 2008",
         "end": "July 2011",
         "url": "https://www.cogecopeer1.com/",
         "keywords": [],
         "highlights": [
-          "Implemented LANDesk ITSM suite",
-          "Daily breakfix of Linux and Windows servers.",
-          "PXE service administration"
+          "Implemented LANDesk ITSM suite to automatically provision software and configuration management of workstations"
         ]
       },
       {
@@ -122,22 +108,20 @@
         "url": "https://www.mtsac.edu/",
         "keywords": [],
         "highlights": [
-          "Created Symantec Ghost services",
-          "Administered Windows Active Directory",
-          "Created MSI packages"
+          "Created using gold images and PXE to reduce desktop deployment times by eliminating the need to walk around with OS disks.",
+          "Created MSI packages to deploy using GPO, rather than install on site"
         ]
       },
       {
-        "position": "Sergeant - 2847 Ground Electronics Telecommunications and Information Technology Systems Maintainer",
+        "position": "Sergeant - Ground Electronics Telecommunications and Information Technology Systems Maintainer",
         "employer": "United States Marine Corps",
-        "summary": "My primary role in the Marine Corps was as a Ground Electronics Telecommunications and Information Technology Systems Maintainer. This meant that for my day job, I repaired broken telecom and IT equipment. The focus was primarily on hardware, and included intermediate level repair of workstations, servers, printers, artillery fire controllers, fiber optic cables, multi-pin copper connectors, telephones, and switchboards.\nOne highlight in this domain came from my taking the initiative to optimize the bench stock of repair parts during support operations in OIF. Given exceptionally long lead times for repair parts delivery, I used MS Access (my first awkward foray into databases) to analyze and pre-order repair parts to enable rapid turnaround of repairs.\nIn a completely different domain, I was also a military policeman aboard Camp Pendleton, and a sub-standard Korean translator that served in two Foal Eagle exercises. =)",
+        "summary": "I served for over 5 years in support of our nation's interests. This was a transformative experience in being a part of a highly structured and effective organization.",
         "start": "June 2001",
         "end": "December 2007",
         "url": "https://usmc.mil",
         "keywords": [],
         "highlights": [
-          "Responsible for communications equipment repair in support of OIF. Received commendation for reducing MTTR by building cache inventory of repair parts using MS Access. I enabled a two man team to turnaround 1000 repair orders in 7 months despite repair part lead times in excess of 6 weeks. The Access database was terrible.",
-          "Riding a CH-47 is fun."
+          "Created bench stock of repair parts and customized repair procedures during support operations in OIF. These actions enabled an order of reduction in Mean Time To Repair from 6 months to same day or next day for the most common repairs. Was awarded certificate of commendation for achievement."
         ]
       }
     ]
@@ -146,7 +130,7 @@
     "history": [
       {
         "type": "volunteer",
-        "position": "Founder",
+        "position": "President",
         "organization": "Social Mobility Pathways",
         "start": "November 2018",
         "end": "Present",
@@ -156,7 +140,7 @@
         "type": "volunteer",
         "position": "Area Director",
         "organization": "Toastmasters International",
-        "start": "June 2018",
+        "start": "September 2016",
         "end": "Present",
         "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
       }
@@ -168,38 +152,6 @@
       "network": "Twitter",
       "url": "",
       "user": "jim80net"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Engines",
-      "keywords": [
-        "Motorcycles",
-        "Sports Cars",
-        "Pickup Trucks",
-        "Container Orchestration Engines",
-        "I like trains."
-      ]
-    },
-    {
-      "name": "Self Development",
-      "keywords": [
-        "Communication skills",
-        "Neuroscience",
-        "Philosophy",
-        "Generosity",
-        "Not being overly serious"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Korean",
-      "fluency": "Conversational"
     }
   ]
 }
