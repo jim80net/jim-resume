@@ -28,75 +28,60 @@ work:
     website: 'https://pivotal.io'
     startDate: 'December 2014'
     endDate: 'September 2017'
-    summary: 'I was responsible for Cloud Operations in roles as Product Manager and Team Anchor. I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching. '
+    summary: 'I was responsible for Cloud Operations in such roles as Team Anchor and Product Manager I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching.'
     highlights:
       - 'Technical liason for Rackspace Managed Pivotal Cloud Foundry'
       - 'Created fully-automated (from product release to production) deployment pattern, reducing operator toil'
-      - 'Took ownership of reference monitoring guidelines and templates for Cloud Foundry, improving visibility and MTTR'
+      - 'Published reference monitoring guidelines and templates for Cloud Foundry'
   -
     company: 'Wildbit, LLC'
     position: 'Systems Engineer'
     website: 'https://wildbit.com'
     startDate: 'March 2014'
     endDate: 'October 2014'
-    summary: 'Working with Wildbit was an interesting experience, and the company culture is great. But this was where I learned that working from home was too isolating for me. I learned that I enjoy bringing other people along on journeys with me, and sought that out in my next career move.'
-    highlights:
-      - 'Implemented chef-based configuration management for linux and OmniOS servers'
+    summary: 'Developed Chef automation to reduce configuration drift for linux and OmniOS production servers.'
   -
     company: 'Adknowledge, Inc.'
     position: 'Senior Linux Administrator'
     website: 'http://adknowledge.com/'
     startDate: 'August 2012'
     endDate: 'March 2014'
-    summary: 'The best part, and the hardest part, about working with Adknowledge was the performance requirements of the product required hardware assets. This was where I most developed the skill to design tools that were resilient to I/O failure and could manage thousands of nodes.'
-    highlights:
-      - 'Created using puppet-based configuration management to reduce configuration errors and change deployment time'
-      - 'Created custom infrastructure SSH tool (like a hacky ansible) to manage configuration drift'
+    summary: 'Developed Puppet automation to reduce configuration drift on all development and production servers.'
   -
     company: 'IC Solutions'
     position: 'Senior Systems Administrator'
     website: 'https://www.icsolutions.com/'
     startDate: 'July 2011'
     endDate: 'August 2012'
-    summary: 'ICSolutions was where I developed my passion for configuration management tooling. Given a broad array of customer sites, I wrote tooling to configure linux servers and Juniper networking equipment. '
-    highlights:
-      - 'Created using puppet-based configuration management to reduce configuration errors and change deployment time'
-      - 'Configuration of JunOS/ScreenOS network devices'
+    summary: 'Developed Puppet automation to reduce configuration drift on production servers in data center and in customer sites.'
   -
     company: 'Peer 1 Hosting'
     position: 'IT Administrator'
     website: 'https://www.cogecopeer1.com/'
     startDate: 'August 2008'
     endDate: 'July 2011'
-    summary: 'Given the business-critical nature of the servers we hosted, I encountered a daily barrage of priority break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. Working in hosting pushed me enabled me to become intimately familiar with networking, DNS, web hosting, and the many ways systems can break.'
-    highlights:
-      - 'Implemented LANDesk ITSM suite to automatically provision software and configuration management of workstations'
+    summary: 'I encountered a daily barrage of break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. I become intimately familiar with networking, performance engineering, linux and Windows OS configuration under a variety of architectural patterns.'
   -
     company: 'Mt San Antonio College'
     position: 'Student Assistant V'
     website: 'https://www.mtsac.edu/'
     startDate: 'December 2007'
     endDate: 'August 2008'
-    summary: 'While attending computer networking courses, I was a student assistant and configured lab workstations. This was where I learned about virtual machines on my shiny XPS laptop. I setup the laptop with PXE and Symantec Ghost so that I could avoid walking around with OS disks.  '
-    highlights:
-      - 'Created using gold images and PXE to reduce desktop deployment times by eliminating the need to walk around with OS disks.'
-      - 'Created MSI packages to deploy using GPO, rather than install on site'
+    summary: 'Created infrastructure for automated OS and MSI package deployment for lab workstations, enabling Systems Administrators to avoid around with OS/software disks, and reducing lab setup time from days to hours.'
   -
     company: 'United States Marine Corps'
     position: 'Sergeant - Ground Electronics Telecommunications and Information Technology Systems Maintainer'
     website: 'https://usmc.mil'
     startDate: 'June 2001'
     endDate: 'December 2007'
-    summary: 'I served for over 5 years in support of our nation''s interests. This was a transformative experience in being a part of a highly structured and effective organization.'
-    highlights:
-      - 'Created bench stock of repair parts and customized repair procedures during support operations in OIF. These actions enabled an order of reduction in Mean Time To Repair from 6 months to same day or next day for the most common repairs. Was awarded certificate of commendation for achievement.'
+    summary: 'Reduced MTTR from 6 months to same day or next day for roughly 75% of telecom and IT system equipment repair orders in support of US and allied forces in OIF II.  Was awarded certificate of commendation for achievement.'
 volunteer:
   -
     organization: 'Social Mobility Pathways'
-    position: President
+    position: 'Chairman and President'
     startDate: 'November 2018'
     endDate: Present
-    summary: 'Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are connected with caring and compassionate guidance.'
+    summary: 'Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are given guidance and structures for fulfilling on their life''s purpose.'
   -
     organization: 'Toastmasters International'
     position: 'Area Director'

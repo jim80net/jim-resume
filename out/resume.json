@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-12-23T01:37:32.493Z"
+    "modified": "2018-12-27T17:24:07.407Z"
   },
   "location": {
     "city": "San Francisco",
@@ -38,7 +38,7 @@
       {
         "position": "Cloud Operations Product Manager / Team Anchor",
         "employer": "Pivotal Software",
-        "summary": "I was responsible for Cloud Operations in roles as Product Manager and Team Anchor. I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching. ",
+        "summary": "I was responsible for Cloud Operations in such roles as Team Anchor and Product Manager I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching.",
         "start": "December 2014",
         "end": "September 2017",
         "url": "https://pivotal.io",
@@ -46,83 +46,62 @@
         "highlights": [
           "Technical liason for Rackspace Managed Pivotal Cloud Foundry",
           "Created fully-automated (from product release to production) deployment pattern, reducing operator toil",
-          "Took ownership of reference monitoring guidelines and templates for Cloud Foundry, improving visibility and MTTR"
+          "Published reference monitoring guidelines and templates for Cloud Foundry"
         ]
       },
       {
         "position": "Systems Engineer",
         "employer": "Wildbit, LLC",
-        "summary": "Working with Wildbit was an interesting experience, and the company culture is great. But this was where I learned that working from home was too isolating for me. I learned that I enjoy bringing other people along on journeys with me, and sought that out in my next career move.",
+        "summary": "Developed Chef automation to reduce configuration drift for linux and OmniOS production servers.",
         "start": "March 2014",
         "end": "October 2014",
         "url": "https://wildbit.com",
-        "keywords": [],
-        "highlights": [
-          "Implemented chef-based configuration management for linux and OmniOS servers"
-        ]
+        "keywords": []
       },
       {
         "position": "Senior Linux Administrator",
         "employer": "Adknowledge, Inc.",
-        "summary": "The best part, and the hardest part, about working with Adknowledge was the performance requirements of the product required hardware assets. This was where I most developed the skill to design tools that were resilient to I/O failure and could manage thousands of nodes.",
+        "summary": "Developed Puppet automation to reduce configuration drift on all development and production servers.",
         "start": "August 2012",
         "end": "March 2014",
         "url": "http://adknowledge.com/",
-        "keywords": [],
-        "highlights": [
-          "Created using puppet-based configuration management to reduce configuration errors and change deployment time",
-          "Created custom infrastructure SSH tool (like a hacky ansible) to manage configuration drift"
-        ]
+        "keywords": []
       },
       {
         "position": "Senior Systems Administrator",
         "employer": "IC Solutions",
-        "summary": "ICSolutions was where I developed my passion for configuration management tooling. Given a broad array of customer sites, I wrote tooling to configure linux servers and Juniper networking equipment. ",
+        "summary": "Developed Puppet automation to reduce configuration drift on production servers in data center and in customer sites.",
         "start": "July 2011",
         "end": "August 2012",
         "url": "https://www.icsolutions.com/",
-        "keywords": [],
-        "highlights": [
-          "Created using puppet-based configuration management to reduce configuration errors and change deployment time",
-          "Configuration of JunOS/ScreenOS network devices"
-        ]
+        "keywords": []
       },
       {
         "position": "IT Administrator",
         "employer": "Peer 1 Hosting",
-        "summary": "Given the business-critical nature of the servers we hosted, I encountered a daily barrage of priority break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. Working in hosting pushed me enabled me to become intimately familiar with networking, DNS, web hosting, and the many ways systems can break.",
+        "summary": "I encountered a daily barrage of break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. I become intimately familiar with networking, performance engineering, linux and Windows OS configuration under a variety of architectural patterns.",
         "start": "August 2008",
         "end": "July 2011",
         "url": "https://www.cogecopeer1.com/",
-        "keywords": [],
-        "highlights": [
-          "Implemented LANDesk ITSM suite to automatically provision software and configuration management of workstations"
-        ]
+        "keywords": []
       },
       {
         "position": "Student Assistant V",
         "employer": "Mt San Antonio College",
-        "summary": "While attending computer networking courses, I was a student assistant and configured lab workstations. This was where I learned about virtual machines on my shiny XPS laptop. I setup the laptop with PXE and Symantec Ghost so that I could avoid walking around with OS disks.  ",
+        "summary": "Created infrastructure for automated OS and MSI package deployment for lab workstations, enabling Systems Administrators to avoid around with OS/software disks, and reducing lab setup time from days to hours.",
         "start": "December 2007",
         "end": "August 2008",
         "url": "https://www.mtsac.edu/",
-        "keywords": [],
-        "highlights": [
-          "Created using gold images and PXE to reduce desktop deployment times by eliminating the need to walk around with OS disks.",
-          "Created MSI packages to deploy using GPO, rather than install on site"
-        ]
+        "keywords": []
       },
       {
         "position": "Sergeant - Ground Electronics Telecommunications and Information Technology Systems Maintainer",
         "employer": "United States Marine Corps",
-        "summary": "I served for over 5 years in support of our nation's interests. This was a transformative experience in being a part of a highly structured and effective organization.",
+        "summary": "Reduced MTTR from 6 months to same day or next day for roughly 75% of telecom and IT system equipment repair orders in support of US and allied forces in OIF II.  Was awarded certificate of commendation for achievement.",
         "start": "June 2001",
         "end": "December 2007",
         "url": "https://usmc.mil",
-        "keywords": [],
-        "highlights": [
-          "Created bench stock of repair parts and customized repair procedures during support operations in OIF. These actions enabled an order of reduction in Mean Time To Repair from 6 months to same day or next day for the most common repairs. Was awarded certificate of commendation for achievement."
-        ]
+        "keywords": []
       }
     ]
   },
@@ -130,11 +109,11 @@
     "history": [
       {
         "type": "volunteer",
-        "position": "President",
+        "position": "Chairman and President",
         "organization": "Social Mobility Pathways",
         "start": "November 2018",
         "end": "Present",
-        "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are connected with caring and compassionate guidance."
+        "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are given guidance and structures for fulfilling on their life's purpose."
       },
       {
         "type": "volunteer",
