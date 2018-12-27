@@ -12,14 +12,7 @@
       "city": "San Francisco",
       "countryCode": "United States",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "jim80net",
-        "url": ""
-      }
-    ]
+    }
   },
   "work": [
     {

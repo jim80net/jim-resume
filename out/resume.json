@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-12-20T02:52:39.047Z"
+    "modified": "2018-12-23T01:37:32.493Z"
   },
   "location": {
     "city": "San Francisco",
@@ -145,13 +145,5 @@
         "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
       }
     ]
-  },
-  "social": [
-    {
-      "label": "Twitter",
-      "network": "Twitter",
-      "url": "",
-      "user": "jim80net"
-    }
-  ]
+  }
 }
