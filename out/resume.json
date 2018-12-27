@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-12-27T17:24:07.407Z"
+    "modified": "2018-12-27T17:42:01.831Z"
   },
   "location": {
     "city": "San Francisco",
@@ -25,28 +25,28 @@
       {
         "position": "Member of the Technical Staff",
         "employer": "Credit Suisse Labs",
-        "summary": "Credit Suisse Labs leverages new tools and new ways of working to build new businesses or refresh old ones in a way that benefits both Credit Suisse as well as society as a whole. I have the pleasure of working with world-class  scientists and engineers leveraging bleeding edge technology. ",
+        "summary": "Responsible for setting up Credit Suisse Labs software operations to enable maximal experimentation and flexibility.",
         "start": "September 2017",
         "end": "Present",
         "url": "https://credit-suisse.com",
         "keywords": [],
         "highlights": [
           "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
-          "Created using BeyondCorp practices to secure Labs operating infrastructure."
+          "Authentication using Google Cloud Identity and Identity Proxy"
         ]
       },
       {
         "position": "Cloud Operations Product Manager / Team Anchor",
         "employer": "Pivotal Software",
-        "summary": "I was responsible for Cloud Operations in such roles as Team Anchor and Product Manager I loved operating at the bleeding edge of Cloud Native platforms, and I particularly loved the dynamic of Pair Operating. The team had a breadth of skills and backgrounds, and being able to spend much time with everyone was immensely satisfying. Every day was an adventure in learning and teaching.",
+        "summary": "Technical leader in Cloud Foundry Cloud Operations team. Developed self-updating deployment pattern for PCF, and got pretty close for OSS Cloud Foundry as well.",
         "start": "December 2014",
         "end": "September 2017",
         "url": "https://pivotal.io",
         "keywords": [],
         "highlights": [
           "Technical liason for Rackspace Managed Pivotal Cloud Foundry",
-          "Created fully-automated (from product release to production) deployment pattern, reducing operator toil",
-          "Published reference monitoring guidelines and templates for Cloud Foundry"
+          "Published reference monitoring guidelines and templates for Cloud Foundry",
+          "Container-based CI systems"
         ]
       },
       {

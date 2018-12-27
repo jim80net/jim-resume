@@ -21,7 +21,7 @@
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
       "endDate": "Present",
-      "summary": "Responsible for setting up Credit Suisse Labs software operations to enable maximal experimentation and flexibility."
+      "summary": "Responsible for setting up Credit Suisse Labs software operations to enable maximal experimentation and flexibility.",
       "highlights": [
         "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
         "Authentication using Google Cloud Identity and Identity Proxy"
@@ -33,7 +33,7 @@
       "website": "https://pivotal.io",
       "startDate": "December 2014",
       "endDate": "September 2017",
-      "summary": "Technical leader in Cloud Foundry Cloud Operations team. Developed self-updating deployment pattern for PCF, and got pretty close for OSS Cloud Foundry as well."
+      "summary": "Technical leader in Cloud Foundry Cloud Operations team. Developed self-updating deployment pattern for PCF, and got pretty close for OSS Cloud Foundry as well.",
       "highlights": [
         "Technical liason for Rackspace Managed Pivotal Cloud Foundry",
         "Published reference monitoring guidelines and templates for Cloud Foundry",
