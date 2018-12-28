@@ -8,7 +8,7 @@ This resume is viewable at:
 
 [PDF Resume](https://storage.googleapis.com/jim-resume/jim-resume.pdf)
 
-[YAML Resume](https://storage.googleapis.com/jim-resume/jim-resume.yaml)
+[YAML Resume](https://storage.googleapis.com/jim-resume/jim-resume.yml)
 
 
 ## Deployment methodology
