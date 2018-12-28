@@ -5,7 +5,9 @@ This resume is built using [JSON Resume](https://jsonresume.org/).
 This resume is viewable at: 
 
 [HTML Resume](https://storage.googleapis.com/jim-resume/jim-resume.html)
+
 [PDF Resume](https://storage.googleapis.com/jim-resume/jim-resume.pdf)
+
 [YAML Resume](https://storage.googleapis.com/jim-resume/jim-resume.yaml)
 
 
