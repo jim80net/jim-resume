@@ -1,0 +1,15 @@
+steps:
+- name: 'tmjd/hackmyresume'
+  args:
+  - hackmyresume
+  - BUILD
+  - -t
+  - /node_modules/jsonresume-theme-flat
+  - resume.json
+  - TO
+  - out/jim-resume.all
+- name: 'gcr.io/cloud-builders/gsutil'
+  args:
+  - cp
+  - out/*
+  - gs://jim-resume/
