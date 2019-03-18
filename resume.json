@@ -20,7 +20,7 @@
       "position": "Member of the Technical Staff",
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
-      "endDate": "Present",
+      "endDate": "January 2019",
       "summary": "Responsible for setting up Credit Suisse Labs software operations to enable maximal experimentation and flexibility.",
       "highlights": [
         "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
