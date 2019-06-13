@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jim Park",
-    "label": "Operations Engineer",
+    "label": "Systems Engineer",
     "picture": "",
     "email": "jpark@jim80.net",
     "phone": "+1.210.649.5546",
-    "summary": "Jim has a passion for creating flow, creativity, and fun in all domains of life. In technology, this manifests as being a champion of automation and manifesting workflows as code. In people, this manifests as listening with kindness, and gentle encouragement towards individual accomplishment. Resume feedback is welcome and appreciated! Please submit feedback to https://github.com/jim80net/jim-resume/issues",
+    "summary": "I have DevOps on Vinyl. I have a passion for creating flow, creativity, and fun in all domains of life. In technology, that means I build tools that are simple to use, but as a collection do complicated work. In people, that means I bring confidence, empathy, and the occassional dad joke.",
     "location": {
       "address": "529 Natoma St",
       "postalCode": "94103",
@@ -17,27 +17,25 @@
   "work": [
     {
       "company": "Credit Suisse Labs",
-      "position": "Member of the Technical Staff",
+      "position": "Member of the Technical Staff - Head of Operations",
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
       "endDate": "January 2019",
-      "summary": "Responsible for setting up Credit Suisse Labs software operations to enable maximal experimentation and flexibility.",
+      "summary": "Responsible for Credit Suisse Labs cloud and security operations",
       "highlights": [
-        "Created CI/CD system leveraging GCP services like Google Cloud Builder, Google Container Repository, Helm, and Keel",
-        "Authentication using Google Cloud Identity and Identity Proxy"
+        "~10 minute app deployment lead times."
       ]
     },
     {
       "company": "Pivotal Software",
-      "position": "Cloud Operations Product Manager / Team Anchor",
+      "position": "Senior Site Reliability Engineer",
       "website": "https://pivotal.io",
       "startDate": "December 2014",
       "endDate": "September 2017",
-      "summary": "Technical leader in Cloud Foundry Cloud Operations team. Developed self-updating deployment pattern for PCF, and got pretty close for OSS Cloud Foundry as well.",
+      "summary": "Technical leader in Pivotal Web Services Cloud Operations team",
       "highlights": [
-        "Technical liason for Rackspace Managed Pivotal Cloud Foundry",
-        "Published reference monitoring guidelines and templates for Cloud Foundry",
-        "Container-based CI systems"
+        "40,000+ containers in production",
+        "Weekly production deploys"
       ]
     },
     {
@@ -46,7 +44,10 @@
       "website": "https://wildbit.com",
       "startDate": "March 2014",
       "endDate": "October 2014",
-      "summary": "Developed Chef automation to reduce configuration drift for linux and OmniOS production servers."
+      "summary": "Responsible for linux and OmniOS production servers.",
+      "highlights": [
+        "`zfs send`"
+      ]
     },
     {
       "company": "Adknowledge, Inc.",
@@ -54,7 +55,10 @@
       "website": "http://adknowledge.com/",
       "startDate": "August 2012",
       "endDate": "March 2014",
-      "summary": "Developed Puppet automation to reduce configuration drift on all development and production servers."
+      "summary": "Responsible for 1000+ physical linux and Windows production servers.",
+      "highlights": [
+        "1000+ servers running puppet for the first time is scary, but I did it."
+      ]
     },
     {
       "company": "IC Solutions",
@@ -62,7 +66,7 @@
       "website": "https://www.icsolutions.com/",
       "startDate": "July 2011",
       "endDate": "August 2012",
-      "summary": "Developed Puppet automation to reduce configuration drift on production servers in data center and in customer sites."
+      "summary": "Responsible for server and network infrastructure in support of many customer sites with persistent VPN tunnels."
     },
     {
       "company": "Peer 1 Hosting",
@@ -70,7 +74,10 @@
       "website": "https://www.cogecopeer1.com/",
       "startDate": "August 2008",
       "endDate": "July 2011",
-      "summary": "I encountered a daily barrage of break-fix scenarios, from failed hard drives, to misconfigured apache servers, to troubleshooting performance problems. I become intimately familiar with networking, performance engineering, linux and Windows OS configuration under a variety of architectural patterns."
+      "summary": "First responder for customer server incidents.",
+      "highlights": [
+        "Recovered a hard drive with no partition table."
+      ]
     },
     {
       "company": "Mt San Antonio College",
@@ -78,7 +85,10 @@
       "website": "https://www.mtsac.edu/",
       "startDate": "December 2007",
       "endDate": "August 2008",
-      "summary": "Created infrastructure for automated OS and MSI package deployment for lab workstations, enabling Systems Administrators to avoid around with OS/software disks, and reducing lab setup time from days to hours."
+      "summary": "Systems Administrator with a heart of gold images.",
+      "highlights": [
+        "Cut lab deployment time in half."
+      ]
     },
     {
       "company": "United States Marine Corps",
@@ -86,7 +96,10 @@
       "website": "https://usmc.mil",
       "startDate": "June 2001",
       "endDate": "December 2007",
-      "summary": "Reduced MTTR from 6 months to same day or next day for roughly 75% of telecom and IT system equipment repair orders in support of US and allied forces in OIF II.  Was awarded certificate of commendation for achievement."
+      "summary": "Systems Administrator with a gun.",
+      "highlights": [
+        "In OIF, reduced MTTR for field hardware from months to same day or next day for a majority of common repairs by modifying shop procedures and implementing a parts cache."
+      ]
     }
   ],
   "volunteer": [
@@ -94,7 +107,7 @@
       "organization": "Social Mobility Pathways",
       "position": "Chairman and President",
       "startDate": "November 2018",
-      "endDate": "Present",
+      "endDate": "April 2019",
       "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are given guidance and structures for fulfilling on their life's purpose."
     },
     {
