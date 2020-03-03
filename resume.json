@@ -43,7 +43,7 @@
       "endDate": "September 2017",
       "summary": "Technical leader in Pivotal Web Services Cloud Operations team",
       "highlights": [
-        "Built the first self-running, self-repairing, self-updating Platform as a Service.",
+        "Built the first self-running, self-repairing, self-updating Cloud Foundry Platform as a Service.",
         "How do you run 50,000 containers in production? Automation. Lots of automation. And YAML. Lots of YAML."
       ]
     },
