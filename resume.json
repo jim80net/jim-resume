@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jim Park",
-    "label": "Systems Engineer",
+    "label": "Senior Infrastructure Engineer",
     "picture": "",
     "email": "jpark@jim80.net",
     "phone": "+1.210.649.5546",
-    "summary": "I have DevOps on Vinyl. I have a passion for creating flow, creativity, and fun in all domains of life. In technology, that means I build tools that are simple to use, but as a collection do complicated work. In people, that means I bring confidence, empathy, and the occassional dad joke.",
+    "summary": "My focus has been, from the very start, the enablement of others in pure pursuit of their passion. This is my passion.",
     "location": {
       "address": "529 Natoma St",
       "postalCode": "94103",
@@ -16,14 +16,23 @@
   },
   "work": [
     {
+      "company": "Scribd",
+      "position": "Senior Infrastructure Engineer",
+      "website": "https://scribd.com",
+      "startDate": "June 2019",
+      "summary": "We are transforming the way we write software, so that we can change the way the world reads."
+    },
+    {
       "company": "Credit Suisse Labs",
       "position": "Member of the Technical Staff - Head of Operations",
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
       "endDate": "January 2019",
-      "summary": "Responsible for Credit Suisse Labs cloud and security operations",
+      "summary": "DevOps at a bank. Our lab had a machine learning focus, and a real entrepreneurial spirit. We broke established patterns by building it all in modern, effective ways (GCP GKE, CI/CD top to bottom, Lean). We wrote new rules to satisfy our real needs as part of a trusted financial institution. We inspired a bunch of people along the way.",
       "highlights": [
-        "~10 minute app deployment lead times."
+        "~10 minute app deployment lead times.",
+        "Easy SSO using Google Cloud Identity.",
+        "Push to deploy all the things."
       ]
     },
     {
@@ -34,8 +43,8 @@
       "endDate": "September 2017",
       "summary": "Technical leader in Pivotal Web Services Cloud Operations team",
       "highlights": [
-        "40,000+ containers in production",
-        "Weekly production deploys"
+        "Built the first self-running, self-repairing, self-updating Platform as a Service.",
+        "How do you run 50,000 containers in production? Automation. Lots of automation. And YAML. Lots of YAML."
       ]
     },
     {
@@ -44,7 +53,7 @@
       "website": "https://wildbit.com",
       "startDate": "March 2014",
       "endDate": "October 2014",
-      "summary": "Responsible for linux and OmniOS production servers.",
+      "summary": "I wrote Chef cookbooks. I did not like it.",
       "highlights": [
         "`zfs send`"
       ]
@@ -55,9 +64,9 @@
       "website": "http://adknowledge.com/",
       "startDate": "August 2012",
       "endDate": "March 2014",
-      "summary": "Responsible for 1000+ physical linux and Windows production servers.",
+      "summary": "Traditional datacenter based systems administration as a main, with a serving of puppet on the side, and classic Perl and Ruby scripting as dessert.",
       "highlights": [
-        "1000+ servers running puppet for the first time is scary, but I did it."
+        "1000+ servers running puppet for the first time isn't so scary if you properly collect the data."
       ]
     },
     {
@@ -66,7 +75,7 @@
       "website": "https://www.icsolutions.com/",
       "startDate": "July 2011",
       "endDate": "August 2012",
-      "summary": "Responsible for server and network infrastructure in support of many customer sites with persistent VPN tunnels."
+      "summary": "Puppet all the things!"
     },
     {
       "company": "Peer 1 Hosting",
@@ -74,10 +83,7 @@
       "website": "https://www.cogecopeer1.com/",
       "startDate": "August 2008",
       "endDate": "July 2011",
-      "summary": "First responder for customer server incidents.",
-      "highlights": [
-        "Recovered a hard drive with no partition table."
-      ]
+      "summary": "The best, hardest entry level systems administrator job I've had. I learned so much about HA configurations, networking fundamentals, and systems administration at Peer 1. I think about my learnings at this job whenever I fire up tcpdump."
     },
     {
       "company": "Mt San Antonio College",
@@ -87,7 +93,7 @@
       "endDate": "August 2008",
       "summary": "Systems Administrator with a heart of gold images.",
       "highlights": [
-        "Cut lab deployment time in half."
+        "I can't believe you think I'm going to setup 100 workstations and not install a Norton Ghost server in a VM."
       ]
     },
     {
@@ -113,8 +119,8 @@
     {
       "organization": "Toastmasters International",
       "position": "Area Director",
-      "startDate": "September 2016",
-      "endDate": "Present",
+      "startDate": "September 2018",
+      "endDate": "September 2019",
       "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
     }
   ]
