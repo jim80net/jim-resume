@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Jim Park",
-    "label": "Senior Infrastructure Engineer",
+    "label": "Developer Operations Consultant",
     "picture": "",
-    "email": "jpark@jim80.net",
+    "email": "jim@ramtank.com",
     "phone": "+1.210.649.5546",
-    "summary": "My focus has been, from the very start, the enablement of others in pure pursuit of their passion. This is my passion.",
+    "summary": "I've got DevOps on Vinyl. From the beginning of my career, I have focused on using technology to eliminate toil and get to \"better value sooner safer happier\".",
     "location": {
-      "address": "529 Natoma St",
-      "postalCode": "94103",
+      "address": "548 Market St #99562",
+      "postalCode": "94104",
       "city": "San Francisco",
       "countryCode": "United States",
       "region": "California"
@@ -20,7 +20,12 @@
       "position": "Senior Infrastructure Engineer",
       "website": "https://scribd.com",
       "startDate": "June 2019",
-      "summary": "We are transforming the way we write software, so that we can change the way the world reads."
+      "summary": "Provided technical leadership to adopting modern DevOps practices using AWS, containers, Datadog, Github, and other Cloud Native technologies.",
+      "highlights": [
+        "Used Github Actions, AWS App Mesh (a service mesh technology), and AWS ECS to dynamically provide a deployed preview that can be used for QA whenever someone opens a pull request.",
+        "Developed a continuous deployment pipeline leveraging Github pull requests for managing the terraform lifecycle",
+        "Eliminated frivolous alerts for our oncall rotation by establishing and promoting standards."
+      ]
     },
     {
       "company": "Credit Suisse Labs",
@@ -28,11 +33,9 @@
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
       "endDate": "January 2019",
-      "summary": "DevOps at a bank. Our lab had a machine learning focus, and a real entrepreneurial spirit. We broke established patterns by building it all in modern, effective ways (GCP GKE, CI/CD top to bottom, Lean). We wrote new rules to satisfy our real needs as part of a trusted financial institution. We inspired a bunch of people along the way.",
+      "summary": "As the third hire at the newly formed CS Labs, I was responsible for establishing our Cloud infrastructure, both from a technical and business perspective. By applying my knowledge of modern operations practices with and through successful negotation with enterprise stakeholders, we were able to define operating parameters that permitted us the agility of a startup, but with the risk conscientiousness worthy of a multinational bank.",
       "highlights": [
-        "~10 minute app deployment lead times.",
-        "Easy SSO using Google Cloud Identity.",
-        "Push to deploy all the things."
+        "Projects could be thought up and an MVP could be stood up the same or next day."
       ]
     },
     {
@@ -41,10 +44,11 @@
       "website": "https://pivotal.io",
       "startDate": "December 2014",
       "endDate": "September 2017",
-      "summary": "Technical leader in Pivotal Web Services Cloud Operations team",
+      "summary": "I was a technical leader for the CloudOps team, responsible for establishing the reference standards for deploying open source CloudFoundry by operating run.pivotal.io.",
       "highlights": [
-        "Built the first self-running, self-repairing, self-updating Cloud Foundry Platform as a Service.",
-        "How do you run 50,000 containers in production? Automation. Lots of automation. And YAML. Lots of YAML."
+        "Built the first self-running, self-repairing and self-updating Cloud Foundry Platform as a Service for a Fortune 500 customer.",
+        "Updated 300+ container hosts running 50,000+ containers multiple times a week.",
+        "Collaborated with our technical writer team to publish our reference guide for monitoring CloudFoundry"
       ]
     },
     {
@@ -53,10 +57,7 @@
       "website": "https://wildbit.com",
       "startDate": "March 2014",
       "endDate": "October 2014",
-      "summary": "I wrote Chef cookbooks. I did not like it.",
-      "highlights": [
-        "`zfs send`"
-      ]
+      "summary": "I was responsible for Wildbit's OpenIndiana and CentOS servers configured using Chef."
     },
     {
       "company": "Adknowledge, Inc.",
@@ -64,10 +65,7 @@
       "website": "http://adknowledge.com/",
       "startDate": "August 2012",
       "endDate": "March 2014",
-      "summary": "Traditional datacenter based systems administration as a main, with a serving of puppet on the side, and classic Perl and Ruby scripting as dessert.",
-      "highlights": [
-        "1000+ servers running puppet for the first time isn't so scary if you properly collect the data."
-      ]
+      "summary": "I was responsible for configuring our over one thousand servers using Puppet, incident response and data center operations."
     },
     {
       "company": "IC Solutions",
@@ -75,7 +73,7 @@
       "website": "https://www.icsolutions.com/",
       "startDate": "July 2011",
       "endDate": "August 2012",
-      "summary": "Puppet all the things!"
+      "summary": "I was responsible for configuring Juniper network devices and using puppet to automate the configuration of backend and client-side servers."
     },
     {
       "company": "Peer 1 Hosting",
@@ -83,7 +81,7 @@
       "website": "https://www.cogecopeer1.com/",
       "startDate": "August 2008",
       "endDate": "July 2011",
-      "summary": "The best, hardest entry level systems administrator job I've had. I learned so much about HA configurations, networking fundamentals, and systems administration at Peer 1. I think about my learnings at this job whenever I fire up tcpdump."
+      "summary": "I was responsible for helping small business customers with configuring their LAMP stack servers and troubleshooting networking issues."
     },
     {
       "company": "Mt San Antonio College",
@@ -91,37 +89,18 @@
       "website": "https://www.mtsac.edu/",
       "startDate": "December 2007",
       "endDate": "August 2008",
-      "summary": "Systems Administrator with a heart of gold images.",
-      "highlights": [
-        "I can't believe you think I'm going to setup 100 workstations and not install a Norton Ghost server in a VM."
-      ]
+      "summary": "I was responsible for the creation and configuration of student computer labs."
     },
     {
       "company": "United States Marine Corps",
-      "position": "Sergeant - Ground Electronics Telecommunications and Information Technology Systems Maintainer",
+      "position": "Sergeant",
       "website": "https://usmc.mil",
       "startDate": "June 2001",
       "endDate": "December 2007",
-      "summary": "Systems Administrator with a gun.",
+      "summary": "I was responsible for repairing electronic equipment, including personal computers, servers and peripherals.",
       "highlights": [
-        "In OIF, reduced MTTR for field hardware from months to same day or next day for a majority of common repairs by modifying shop procedures and implementing a parts cache."
+        "I took the initiative to analyze our part orders and build a repair parts cache, reducing the repair backlog from 3+ months to same day or next day for over 50% of new work orders in support of my unit in OIF II."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Social Mobility Pathways",
-      "position": "Chairman and President",
-      "startDate": "November 2018",
-      "endDate": "April 2019",
-      "summary": "Social Mobility Pathways matches mentors with junior professionals and students. Mentors receive leadership training, and mentees are given guidance and structures for fulfilling on their life's purpose."
-    },
-    {
-      "organization": "Toastmasters International",
-      "position": "Area Director",
-      "startDate": "September 2018",
-      "endDate": "September 2019",
-      "summary": "Toastmasters International is a nonprofit educational organization that operates clubs for the purpose of promoting communication, public speaking, and leadership skills."
     }
   ]
 }
