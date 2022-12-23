@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jim Park",
-    "label": "Developer Operations Consultant",
+    "label": "I've got DevOps on Vinyl",
     "picture": "",
     "email": "jim@ramtank.com",
     "phone": "+1.210.649.5546",
-    "summary": "I've got DevOps on Vinyl. From the beginning of my career, I have focused on using technology to eliminate toil and get to \"better value sooner safer happier\".",
+    "summary": "I focus on using technology to drive software delivery performance and make software performance and security visible.",
     "location": {
       "address": "548 Market St #99562",
       "postalCode": "94104",
@@ -17,14 +17,26 @@
   "work": [
     {
       "company": "Scribd",
-      "position": "Senior Infrastructure Engineer",
+      "position": "Staff Infrastructure Engineer",
       "website": "https://scribd.com",
       "startDate": "June 2019",
-      "summary": "Provided technical leadership to adopting modern DevOps practices using AWS, containers, Datadog, Github, and other Cloud Native technologies.",
+      "summary": "Provided technical leadership focusing on AWS, DataDog, and GitHub Actions.",
       "highlights": [
-        "Used Github Actions, AWS App Mesh (a service mesh technology), and AWS ECS to dynamically provide a deployed preview that can be used for QA whenever someone opens a pull request.",
-        "Developed a continuous deployment pipeline leveraging Github pull requests for managing the terraform lifecycle",
-        "Eliminated frivolous alerts for our oncall rotation by establishing and promoting standards."
+        "Created an open source pull request preview system using Github Actions, AWS App Mesh (a service mesh technology), and AWS ECS.",
+        "Developed a continuous deployment pipeline leveraging Github pull requests for managing the terraform lifecycle.",
+        "Established the standards for writing alerts and dashboards in DataDog.",
+        "Wrote and open sourced a datadog_backup tool for backing up DataDog dashboards and monitors."
+      ]
+    },
+    {
+      "company": "RamTank, Inc",
+      "position": "Principal Consultant",
+      "startDate": "April 2013",
+      "summary": "I work with companies to design and build infrastructure that is tailored for the specific needs of startups.",
+      "highlights": [
+        "Created custom Preview And Deploy infrastructure for multiple customers.",
+        "Wrote custom Helm chart for customers using Kubernetes, as well as development pipelines for that Helm chart and the application.",
+        "Built a dynamically scaling runner pool for GitLab CI, reducing average build time by 75%."
       ]
     },
     {
@@ -33,9 +45,9 @@
       "website": "https://credit-suisse.com",
       "startDate": "September 2017",
       "endDate": "January 2019",
-      "summary": "As the third hire at the newly formed CS Labs, I was responsible for establishing our Cloud infrastructure, both from a technical and business perspective. By applying my knowledge of modern operations practices with and through successful negotation with enterprise stakeholders, we were able to define operating parameters that permitted us the agility of a startup, but with the risk conscientiousness worthy of a multinational bank.",
+      "summary": "I was responsible for establishing our operations practices. We were able to operate with the agility of a startup, and the risk controls of a multinational bank.",
       "highlights": [
-        "Projects could be thought up and an MVP could be stood up the same or next day."
+        "From Ideation to Production in 24 hours."
       ]
     },
     {
@@ -44,11 +56,11 @@
       "website": "https://pivotal.io",
       "startDate": "December 2014",
       "endDate": "September 2017",
-      "summary": "I was a technical leader for the CloudOps team, responsible for establishing the reference standards for deploying open source CloudFoundry by operating run.pivotal.io.",
+      "summary": "We developed the standards for deploying open source CloudFoundry.",
       "highlights": [
-        "Built the first self-running, self-repairing and self-updating Cloud Foundry Platform as a Service for a Fortune 500 customer.",
+        "I designed and oversaw the creation of the first self-running, self-repairing and self-updating Cloud Foundry Platform as a Service for a Fortune 500 customer.",
         "Updated 300+ container hosts running 50,000+ containers multiple times a week.",
-        "Collaborated with our technical writer team to publish our reference guide for monitoring CloudFoundry"
+        "Developed the reference material and source code for monitoring CloudFoundry on DataDog."
       ]
     },
     {
@@ -65,7 +77,7 @@
       "website": "http://adknowledge.com/",
       "startDate": "August 2012",
       "endDate": "March 2014",
-      "summary": "I was responsible for configuring our over one thousand servers using Puppet, incident response and data center operations."
+      "summary": "I was responsible for managing our over one thousand servers using Puppet, incident response and data center operations."
     },
     {
       "company": "IC Solutions",
@@ -81,7 +93,7 @@
       "website": "https://www.cogecopeer1.com/",
       "startDate": "August 2008",
       "endDate": "July 2011",
-      "summary": "I was responsible for helping small business customers with configuring their LAMP stack servers and troubleshooting networking issues."
+      "summary": "I worked with small business customers in configuring their LAMP stack servers, performing disk recovery, and troubleshooting networking issues."
     },
     {
       "company": "Mt San Antonio College",
@@ -89,7 +101,7 @@
       "website": "https://www.mtsac.edu/",
       "startDate": "December 2007",
       "endDate": "August 2008",
-      "summary": "I was responsible for the creation and configuration of student computer labs."
+      "summary": "I built computer labs using Norton Ghost."
     },
     {
       "company": "United States Marine Corps",
@@ -97,9 +109,9 @@
       "website": "https://usmc.mil",
       "startDate": "June 2001",
       "endDate": "December 2007",
-      "summary": "I was responsible for repairing electronic equipment, including personal computers, servers and peripherals.",
+      "summary": "Telephone Systems/ Personal Computer Repairer",
       "highlights": [
-        "I took the initiative to analyze our part orders and build a repair parts cache, reducing the repair backlog from 3+ months to same day or next day for over 50% of new work orders in support of my unit in OIF II."
+        "In OIF II, I reduced the average turnaround time from 3+ months to same day or next day for over 50% of new work orders."
       ]
     }
   ]
