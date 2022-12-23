@@ -4,7 +4,7 @@ steps:
   - hackmyresume
   - BUILD
   - -t
-  - eloquent
+  - /node_modules/jsonresume-theme-eloquent-mod
   - resume.json
   - TO
   - out/jim-resume.all
