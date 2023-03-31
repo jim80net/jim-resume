@@ -1,5 +1,14 @@
 # Jim Resume
 
+## Archival Notice
+
+This repository is archived as of 2023-03-30, as I no longer use JSON Resume for managing my resume.
+
+To follow my current CV, please visit [my linkedin](https://www.linkedin.com/in/jim80net/).
+
+---
+
+
 This resume is built using [JSON Resume](https://jsonresume.org/). 
 
 This resume is viewable at: 
